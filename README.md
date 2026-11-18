@@ -3,7 +3,6 @@
 > **Note:** This repository serves as a visual and technical showcase of a custom desktop utility. Source code and binaries are kept private.
 
 ![Wipe Compare Demo](wipe_compare_demo.gif)
-![Wipe Compare Demo](wipe_compare_demo_linkedin.gif)
 
 SETUP (once)
 1. Unzip this folder somewhere permanent, e.g.  C:\Tools\WipeCompare
